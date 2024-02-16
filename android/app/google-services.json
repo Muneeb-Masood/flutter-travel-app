@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "208539895577",
+    "project_id": "istakhara",
+    "storage_bucket": "istakhara.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208539895577:android:1ccf43f56d4cea4f0e2788",
+        "android_client_info": {
+          "package_name": "com.example.travelling_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRUggY1bONuiL-2rQqSHK1n1HxJdeo2PE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
